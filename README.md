@@ -1,23 +1,29 @@
-Responsive Animated Calculator Kalkulator ini adalah aplikasi berbasis web yang responsif dan interaktif, dirancang untuk bekerja di berbagai perangkat, mulai dari desktop hingga smartphone. Dilengkapi dengan animasi tombol yang halus dan fitur-fitur canggih seperti:
-- Operasi matematika dasar (penjumlahan, pengurangan, perkalian, pembagian).
-- Fungsi lanjutan: persen (%), kuadrat (x²), akar kuadrat (√), dan kebalikan (⅟).
-- Kemampuan untuk menghapus entri terakhir (CE) atau menghapus semua (C).
-- Responsif penuh untuk pengalaman pengguna yang nyaman di perangkat apa pun.
+# Responsive Animated Calculator
 
-Fitur Utama:
-1. Desain responsif dengan CSS Grid.
-2. Tombol dengan animasi hover dan active.
-3. Dukungan fungsi matematika lanjutan.
-4. Mudah diimplementasikan dan dimodifikasi.
+**Responsive Animated Calculator** adalah aplikasi kalkulator berbasis web yang responsif dan interaktif, dirancang untuk bekerja dengan lancar di berbagai perangkat, mulai dari desktop hingga smartphone. Kalkulator ini dilengkapi dengan animasi tombol yang halus dan mendukung berbagai fungsi matematika dasar serta lanjutan.
 
-Responsive Animated Calculator This is a responsive and interactive web-based calculator application designed to work seamlessly across various devices, from desktops to smartphones. It features smooth button animations and advanced functionalities such as:
-- Basic mathematical operations (addition, subtraction, multiplication, division).
-- Advanced functions: percentage (%), square (x²), square root (√), and reciprocal (⅟).
-- Capability to delete the last entry (CE) or clear all (C).
-- Fully responsive design for a comfortable user experience on any device.
+---
 
-Key Features:
-1. Responsive design with CSS Grid.
-2. Buttons with hover and active animations.
-3. Support for advanced mathematical functions.
-4. Easy to implement and customize.
+## ✨ Fitur Utama
+
+- **Operasi Matematika Dasar**: Penjumlahan, pengurangan, perkalian, dan pembagian.
+- **Fungsi Lanjutan**: 
+  - Persen (%)
+  - Kuadrat (x²)
+  - Akar kuadrat (√)
+  - Kebalikan (⅟)
+- **Kemampuan Penghapusan**:
+  - Hapus entri terakhir (CE)
+  - Hapus semua data (C)
+- **Desain Responsif**: Berbasis **CSS Grid**, cocok untuk semua perangkat.
+- **Animasi Halus**: Tombol dengan efek hover dan active yang memberikan pengalaman interaktif.
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+- **HTML**: Membentuk struktur kalkulator.
+- **CSS**: Memberikan gaya dan animasi, termasuk layout responsif dengan CSS Grid.
+- **JavaScript**: Untuk logika perhitungan dan interaktivitas.
+
+---
